@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Akash 👋</h1>
-<h3 align="center">.NET Full Stack Developer @ Capgemini</h3>
+<h3 align="center">.NET Full Stack Developer @ Capgemini — building Enterprise-grade web applications</h3>
 
 <p align="center">
   Software Engineer with 2+ years designing and developing enterprise web applications, using
@@ -46,12 +46,45 @@
 
 ### 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| **[Foodie](https://github.com/akash668463/Foodie)** | Scalable food-ordering platform built with 7 microservices — .NET 8, ASP.NET Core, Azure Service Bus, Ocelot API Gateway, JWT auth. Deployed to Azure. |
-| **[CodePulse-Blog-Application](https://github.com/akash668463/CodePulse-Blog-Application)** | Full-stack blogging platform — ASP.NET Core Web API backend, Angular frontend, Repository Pattern, JWT-based auth. |
-| **[robot-shop](https://github.com/akash668463/robot-shop)** | Angular front-end project focused on component architecture and state handling. |
-| **[Problem-Solving](https://github.com/akash668463/Problem-Solving)** | Ongoing DSA practice in C# — sliding window, two-pointer, and string/array problems. |
+<p align="center">
+  <a href="https://github.com/akash668463/Foodie">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=akash668463&repo=Foodie&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/akash668463/CodePulse-Blog-Application">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=akash668463&repo=CodePulse-Blog-Application&theme=dark&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/akash668463/robot-shop">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=akash668463&repo=robot-shop&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/akash668463/Problem-Solving">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=akash668463&repo=Problem-Solving&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🍔 Foodie</b> — Scalable food-ordering platform built with 7 microservices.<br/>
+      <code>.NET 8</code> <code>ASP.NET Core</code> <code>Azure Service Bus</code> <code>Ocelot API Gateway</code> <code>JWT</code> — deployed to Azure.
+    </td>
+    <td width="50%" valign="top">
+      <b>📝 CodePulse Blog</b> — Full-stack blogging platform.<br/>
+      <code>ASP.NET Core Web API</code> <code>Angular</code> <code>Repository Pattern</code> <code>JWT Auth</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤖 Robot Shop</b> — Angular front-end project.<br/>
+      <code>Angular</code> <code>TypeScript</code> — focused on component architecture and state handling.
+    </td>
+    <td width="50%" valign="top">
+      <b>🧠 Problem-Solving</b> — Ongoing DSA practice, 90+ commits.<br/>
+      <code>C#</code> — sliding window, two-pointer, and string/array problems.
+    </td>
+  </tr>
+</table>
 
 ### 📊 GitHub Stats
 
