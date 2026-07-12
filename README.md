@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Akash 👋</h1>
-<h3 align="center">.NET Full Stack Developer @ Capgemini — building banking-grade web applications</h3>
+<h3 align="center">.NET Full Stack Developer @ Capgemini</h3>
 
 <p align="center">
-  Software Engineer with 2+ years designing and developing enterprise web applications for a banking client, using
+  Software Engineer with 2+ years designing and developing enterprise web applications, using
   C#, ASP.NET Core Web API, Angular, SQL Server, and Azure. I work on secure, compliance-driven features
   in production banking systems.
 </p>
@@ -63,8 +63,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash668463&theme=dark&hide_border=true" />
 </p>
 
+### 🧩 Coding Practice
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/akash-100000?theme=dark&font=Baloo%202&ext=heatmap" alt="Akash's LeetCode stats" />
+</p>
+
+217+ problems solved on [LeetCode](https://leetcode.com/u/akash-100000/) — 117 in C#, 74 in C++, 26 in MySQL — with a focus on Arrays, Two Pointers, Hash Tables, and Dynamic Programming.
+
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kumar-15372812b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/akash-100000/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ak668463@gmail.com)
 
 <p align="center"><i>Currently exploring new opportunities as a .NET Full Stack Developer — open to connect.</i></p>
