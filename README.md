@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Akash 👋</h1>
-<h3 align="center">.NET Full Stack Developer @ Capgemini — building Enterprise-grade web applications</h3>
+<h3 align="center">.NET Full Stack Developer @ Capgemini</h3>
 
 <p align="center">
   Software Engineer with 2+ years designing and developing enterprise web applications, using
