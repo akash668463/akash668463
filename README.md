@@ -10,7 +10,7 @@
 ---
 
 ### 🔭 What I'm working on
-- Building out **Foodie**, a microservices-based food ordering platform (.NET 8, Ocelot API Gateway, Azure Service Bus)
+- A production-ready .NET 8 Microservices e-commerce platform demonstrating DDD, CQRS, Vertical Slice & Clean Architecture with Yarp Gateway, Redis, MassTransit, RabbitMQ, and gRPC.
 - Sharpening data structures & algorithms daily in C# — see my [Problem-Solving](https://github.com/akash668463/Problem-Solving) repo
 - Deepening my Azure and system-design skills to move toward backend/full-stack architecture roles
 
@@ -48,9 +48,9 @@
 
 | Project | Description |
 |---|---|
+| **[ShopSphere](https://github.com/akash668463/ShopSphere)** | A production-ready .NET 8 Microservices e-commerce platform demonstrating DDD, CQRS, Vertical Slice & Clean Architecture with Yarp Gateway, Redis, MassTransit, RabbitMQ, and gRPC. |
 | **[Foodie](https://github.com/akash668463/Foodie)** | Scalable food-ordering platform built with 7 microservices — .NET 8, ASP.NET Core, Azure Service Bus, Ocelot API Gateway, JWT auth. Deployed to Azure. |
 | **[CodePulse-Blog-Application](https://github.com/akash668463/CodePulse-Blog-Application)** | Full-stack blogging platform — ASP.NET Core Web API backend, Angular frontend, Repository Pattern, JWT-based auth. |
-| **[robot-shop](https://github.com/akash668463/robot-shop)** | Angular front-end project focused on component architecture and state handling. |
 | **[Problem-Solving](https://github.com/akash668463/Problem-Solving)** | Ongoing DSA practice in C# — sliding window, two-pointer, and string/array problems. |
 
 ### 📊 GitHub Stats
